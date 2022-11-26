@@ -1,0 +1,84 @@
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/500italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/800italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Playfair Display/900italic.ttf') format('truetype');
+}

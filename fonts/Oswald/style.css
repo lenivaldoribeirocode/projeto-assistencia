@@ -1,0 +1,42 @@
+@font-face {
+   font-family: 'Oswald';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oswald';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oswald';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oswald';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oswald';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oswald';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/edson/Desktop/ASSISTENCIA/fonts/Oswald/regular.ttf') format('truetype');
+}
